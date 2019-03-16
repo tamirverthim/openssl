@@ -3,7 +3,7 @@
  =============================
 
  For Unix/POSIX runtime systems on Windows, please see NOTES.WIN.
-
+WS
 
  OpenSSL uses the compiler to link programs and shared libraries
  ---------------------------------------------------------------
